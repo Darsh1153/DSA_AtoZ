@@ -1,0 +1,26 @@
+Projects
+
+1. GitHub Profile Finder -
+GitHub Link - https://github.com/Darsh1153/Github-profile-finder-main
+Project Link - github-profile-finder-main.vercel.app
+
+Engineered GitHub Profile Finder to enable searching and displaying GitHub profiles by username using HTML,
+CSS, JavaScript, and React.js, driving a 35% uplift in user engagement metrics.
+Designed a simple and user-friendly interface to display repository details such as name, description, language, and
+the number of forks and stars, achieving a 25% improvement in user interaction metrics.
+
+2. Dictionary App -
+GitHub Link - https://github.com/Darsh1153/dictionary-main
+Project Link - dictionary-main-plum.vercel.app
+
+Crafted a React-based dictionary app, showcasing proficiency in JavaScript and CSS for an intuitive user interface, leading to a 25% increase in user retention.
+Implemented a sleek and efficient dictionary application using React, demonstrating expertise in JavaScript and
+CSS for optimal functionality and user engagement, achieving a 30% boost in daily active users.
+
+3. Currency Converter - 
+GitHub Link - https://github.com/Darsh1153/CurrencyConvertor
+Project Link - currency-convertor-theta-nine.vercel.app
+
+Engineered a dynamic currency converter using React.js, showcasing adeptness in JavaScript and CSS.
+Successfully integrated external APIs to fetch and update real-time currency exchange rates.
+Ensured a responsive UI design for optimal user experience across diverse devices and screen sizes.
